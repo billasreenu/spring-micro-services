@@ -16,6 +16,8 @@
 	<module>sms-gateway-server</module>
     <module>sms-tracing-app</module>
 
+    <module>sms-web-library</module>
+	
     <module>services</module>
 	
   </modules>
