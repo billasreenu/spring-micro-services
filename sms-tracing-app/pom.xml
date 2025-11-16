@@ -8,11 +8,13 @@
 		<version>3.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	
 	<groupId>com.billa.sms</groupId>
 	<artifactId>sms-tracing-app</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>sms-tracing-app</name>
 	<description>Demo project for Spring Boot</description>
+	
 	<url/>
 	<licenses>
 		<license/>
