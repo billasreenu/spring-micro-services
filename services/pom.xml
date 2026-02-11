@@ -13,8 +13,6 @@
 
     <module>user-service</module>	
 	<module>password-service</module>
-	<module>account-service</module>
-    <module>transaction-service</module>	
 	
   </modules>
   
